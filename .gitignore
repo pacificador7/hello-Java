@@ -5,7 +5,6 @@ target/
 .kotlin
 
 ### IntelliJ IDEA ###
-### IntelliJ IDEA ###
 .idea/
 *.iws
 *.iml
