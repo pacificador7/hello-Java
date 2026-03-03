@@ -6,9 +6,11 @@ de esta ruta de estudio enfocada a Java.
 ## Requisitos
 - Java 21
 
-## Como correr
+## Como correr main semana 0
 - Abrir proyecto
-- ejecutar main
+- ejecutar semana0.main
+
+
 
 
 
